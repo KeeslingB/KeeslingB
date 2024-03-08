@@ -5,7 +5,7 @@
 - 📫 How to reach me KeeslingDev@gmail.com
 - 😄 Pronouns: He/Him
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,react,nodejs,bootstrap,express,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,react,nodejs,bootstrap,express,mysql,mongodb,stackoverflow)](https://skillicons.dev)
 
 
 <!---
