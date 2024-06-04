@@ -9,7 +9,6 @@
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto://keeslingdev@gmail.com)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,react,nodejs,bootstrap,express,mysql,mongodb,stackoverflow)]()
 <!---
 KeeslingB/KeeslingB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
